@@ -3,3 +3,4 @@ test file
 
 add other line
 
+ssh key add
